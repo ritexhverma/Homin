@@ -112,6 +112,7 @@ color: #fff;
 border: 1px solid #ffffff49;
 padding: 10px;
 border-radius: 50px;
+cursor: pointer;
 }
 
 .material-symbols-outlined:hover{
@@ -120,8 +121,7 @@ border-radius: 50px;
   'wght' 400,
   'GRAD' 0,
   'opsz' 24;
-  color: #c6ec64;
-  }
+  color:#c6ec64;}
 
 .rght-nav a {
 text-decoration: none;
@@ -133,6 +133,7 @@ color:#FFF ;
 padding: 15px;
 border: 1px solid #ffffff49;
 border-radius: 50px;
+cursor: pointer;
 }
 
 .header{
