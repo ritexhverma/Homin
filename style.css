@@ -14,7 +14,7 @@ html,body{
   padding-top: 50px;
   width: 100%;
   min-height:100vh;
-  background-color: #171919   ;
+  background-color: #171919;
 }
 
 nav{
@@ -69,11 +69,13 @@ color: #000;
 .cntr-nav .brdr .nav-cntr{
   border: 2px solid transparent;
   border-radius: 50px;
+  transition: .3s all ease-in-out;
 }
 
 .cntr-nav .brdr .nav-cntr:hover{
   border: 2px solid #c6ec64;
   border-radius: 50px;
+  transition: .3s all ease-in-out;
 }
 
 .rght-nav{
